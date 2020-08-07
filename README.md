@@ -37,4 +37,4 @@ Calculates:
 
 John Jostes - [https://www.linkedin.com/in/john-jostes-386b841a0/](https://www.linkedin.com/in/john-jostes-386b841a0/)
 
-Project Link: [https://github.com/jjostes/stock-market-analysis](https://github.com/jjostes/stock-market-analysis)
+Project Link: [https://github.com/jjostes/cancer-drug-study](https://github.com/jjostes/cancer-drug-study)
